@@ -1,1 +1,1 @@
-Print("just get f&&**")
+print("just get f&&**")
